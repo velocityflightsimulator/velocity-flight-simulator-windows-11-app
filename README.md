@@ -3,10 +3,10 @@ Velocity flight simulator is a high quality flight simulator built as a windows 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### How to use it:
-1. Download the file velocityflightsimulatorinstaller.windows11.exe
-2. Wait for it to install
-3. Go through the setup process
-And your done!
-Go to our website: sites.google.com/view/velocityflightsimulator/install for a detailed guide.
-
+1. Download the file VelocityFSinstaller.W1SE.IV1
+2. Run it
+3. It will ask you "Do you want to allow a app from a unverified publisher to make changes to your device?" click "yes"
+4. click "install"
+5. And your done! there will be a shortcut on your desktop to play.
+If you have any issues email elismidt@hotmail.com
 ----------------------------------------------------------------------------------------------------------------------------------
