@@ -9,4 +9,4 @@ Velocity flight simulator is a high quality flight simulator built as a windows 
 4. click "install"
 5. And your done! there will be a shortcut on your desktop to play.
 If you have any issues email elismidt@hotmail.com
-----------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------
